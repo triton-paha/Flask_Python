@@ -4,3 +4,4 @@ item = [30, 40, 50]
 items = [100, 200, 300]
 for i in items:
     print(i)
+
